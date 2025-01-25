@@ -1,4 +1,5 @@
 # AR-CAR-Showroom
+i am shubham sundram and i am working on augented car repair. i have provided all the necessary step for instalation.
 It is a professional Car Showroom App based on Augmented reality with voice commands. This is the fusion between the latest Augmented Reality technology from Vuforia, the Unity game engine and a voice controlled cloud based machine learning AI.
 
 # Installation
